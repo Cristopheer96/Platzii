@@ -1,0 +1,15 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristopher Huaroc",
+  "license": "MIT",
+  "devDependencies": {
+    "date-fns": "^2.28.0",
+    "moment": "^2.29.2"
+  }
+}
